@@ -21,7 +21,7 @@ LICENSE
 }
 
 s.author              = { "Rudy Gomez" => "rgomez@marketo.com" }
-s.source              = { :git => "https://github.com/Marketo/ios-sdk.git", :tag => s.version, :branch => 'vespa-dev' }
+s.source              = { :git => "https://github.com/Marketo/ios-sdk.git", :tag => s.version }
 s.source_files		  = 'Marketo.framework/**/*.h'
 
 s.platform            = :ios, '7.0'
