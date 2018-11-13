@@ -34,7 +34,7 @@ s.frameworks          = 'SystemConfiguration', 'Security', 'CoreTelephony'
 s.library			  = 'sqlite3'
 s.resource_bundles 	  = {
     'MKTResources' => [
-        'ResourcePod/**/*.{png,plist,storyboard}'
+        'ResourcePod/**/*.{png,storyboard}'
     ]
 }
 end
