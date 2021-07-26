@@ -21,7 +21,7 @@ LICENSE
 }
 
 s.author              = { "Marketo" => "mbijapur@marketo.com" }
-s.source              = { :git => "https://github.com/Marketo/ios-sdk-debug.git", :tag => s.version, :branch => 'vespa-preprod' }
+s.source              = { :git => "https://github.com/Marketo/ios-sdk-debug.git", :tag => s.version, :branch => 'master' }
 s.source_files		  = 'Marketo.framework/**/*.h'
 
 s.platform            = :ios, '8.1'
