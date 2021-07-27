@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name                = "Marketo-iOS-SDK"
+s.name                = "ios-sdk-debug"
 s.version             = "0.7.8"
 s.summary             = "Add Marketo Mobile Engagement to your project."
 s.description         = <<-DESC
