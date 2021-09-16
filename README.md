@@ -8,7 +8,7 @@ Change Log
 
 v0.7.8 (July 26, 2021)
 
-- Bug fixes & enhancements.
+- Bug fixes & general enhancements.
 
 v0.7.6 (September 4, 2018)
 
