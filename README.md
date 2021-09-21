@@ -6,6 +6,10 @@ Installation instructions and more are [here](http://developers.marketo.com/docu
 
 Change Log
 
+v0.8.1 (July 26, 2021)
+
+- Updated version number for SDK testing.
+
 v0.8.0 (July 26, 2021)
 
 - Bug fixes & general enhancements.
