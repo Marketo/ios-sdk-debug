@@ -6,6 +6,10 @@ Installation instructions and more are [here](http://developers.marketo.com/docu
 
 Change Log
 
+v0.8.3 (Jan 04, 2022)
+
+- Updated minimum iOS version support to 12.0.
+
 v0.8.2 (July 26, 2021)
 
 - Updated version number for SDK.
