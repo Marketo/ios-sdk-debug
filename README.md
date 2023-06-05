@@ -1,10 +1,14 @@
-# Marketo Mobile SDK for iOS 0.8.2
+# Marketo Mobile SDK for iOS 0.8.5
 
 The Marketo Mobile SDK allows integration with Marketo Mobile Engagement (MME).  
 
 Installation instructions and more are [here](http://developers.marketo.com/documentation/mobile/ "Marketo for Mobile").
 
 Change Log
+
+v0.8.5 (Jan 05, 2023)
+
+- Support for xcframework for multiple platforms.
 
 v0.8.3 (Jan 04, 2022)
 
@@ -117,7 +121,7 @@ pod install
 #####Before you can use the Marketo iOS SDK, you must initialize it with your Munchkin Account Id and App Secret Key.  You can find each of these in the Marketo Admin area underneath Mobile Apps.
 #####1. Open your AppDelegate.m or Bridging file (Swift) and import the Marketo.h header file.
 ```Objective-C
-import <Marketo/Marketo.h>
+import "Marketo.h"
 ```
 #####2. Paste the following code inside the application:didFinishLaunchingWithOptions: function.
 
