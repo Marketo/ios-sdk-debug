@@ -1,6 +1,0 @@
-framework module MarketoFramework {
-  umbrella header "MarketoFramework.h"
-  export *
-
-  module * { export * }
-}
