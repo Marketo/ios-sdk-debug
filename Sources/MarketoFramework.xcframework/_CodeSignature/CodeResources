@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>ios-arm64/MarketoFramework.framework/.DS_Store</key>
+		<data>
+		3y++sUAKzaCQmjLBz2v0kvESHgc=
+		</data>
 		<key>ios-arm64/MarketoFramework.framework/Headers/MKTSecuritySignature.h</key>
 		<data>
 		bkuotBYxQ2AvO7mEJsmigzbZuSI=
@@ -132,9 +136,9 @@
 		<data>
 		k4z2o/EENGXHAA9cMxUchvswK/g=
 		</data>
-		<key>ios-arm64/MarketoFramework.framework/_CodeSignature/CodeResources</key>
+		<key>ios-arm64_x86_64-simulator/MarketoFramework.framework/.DS_Store</key>
 		<data>
-		exQwBKszhslbvjQ2AxHqM8bcVzM=
+		3y++sUAKzaCQmjLBz2v0kvESHgc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MarketoFramework.framework/Headers/MKTSecuritySignature.h</key>
 		<data>
@@ -263,10 +267,6 @@
 		<key>ios-arm64_x86_64-simulator/MarketoFramework.framework/Modules/module.modulemap</key>
 		<data>
 		k4z2o/EENGXHAA9cMxUchvswK/g=
-		</data>
-		<key>ios-arm64_x86_64-simulator/MarketoFramework.framework/_CodeSignature/CodeResources</key>
-		<data>
-		UGwIJemRrLvvgy6vQj/pV5ecmV0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -623,17 +623,6 @@
 			sE5OBe1jr7X9Ze2WhH+fBcAQPAhjQ/jv2yAk4DI+t5M=
 			</data>
 		</dict>
-		<key>ios-arm64/MarketoFramework.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			exQwBKszhslbvjQ2AxHqM8bcVzM=
-			</data>
-			<key>hash2</key>
-			<data>
-			m34SxpR1VUjYM8/K+03cgGKF96U3r0eaPyK/4YRCkMg=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/MarketoFramework.framework/Headers/MKTSecuritySignature.h</key>
 		<dict>
 			<key>hash</key>
@@ -984,17 +973,6 @@
 			<key>hash2</key>
 			<data>
 			sE5OBe1jr7X9Ze2WhH+fBcAQPAhjQ/jv2yAk4DI+t5M=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/MarketoFramework.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UGwIJemRrLvvgy6vQj/pV5ecmV0=
-			</data>
-			<key>hash2</key>
-			<data>
-			s4s2cJjvP/U8fDuPo4Bbkyj63UOA7n953jYj1xv5B28=
 			</data>
 		</dict>
 	</dict>
